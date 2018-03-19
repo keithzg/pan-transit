@@ -1,0 +1,6 @@
+{
+    "_name": "Edmonton",
+    "_description": "Edmonton Transit Service",
+    "departure_list_item_qml": "DepartureListItemHsl.qml",
+    "update_interval": 60
+}
